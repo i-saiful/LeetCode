@@ -1,5 +1,7 @@
 # 1207. Unique Number of Occurrences
 
+- ```Problem```: [https://LeetCode.com](https://leetcode.com/problems/unique-number-of-occurrences/description/)
+
 ```kotlin
 class Solution {
     fun uniqueOccurrences(arr: IntArray): Boolean {
