@@ -1,6 +1,6 @@
 # 1480. Running Sum of 1d Array
 
-- Problem: [https://leetcode.com](https://leetcode.com/problems/running-sum-of-1d-array/description/)
+- Problem: [https://leetcode.com](https://leetcode.com/problems/running-sum-of-1d-array)
 
 ```kotlin
 class Solution {
