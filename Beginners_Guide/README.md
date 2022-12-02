@@ -6,3 +6,4 @@
 - [412. Fizz Buzz](./412_Fizz_Buzz)
 - [1342. Number of Steps to Reduce a Number to Zero](./1342_Number_of_Steps_to_Reduce_a_Number_to_Zero)
 - [876. Middle of the Linked List](./876_Middle_of_the_Linked_List)
+- [383. Ransom Note](./383_Ransom_Note)
