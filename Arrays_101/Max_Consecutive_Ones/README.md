@@ -1,6 +1,6 @@
 # Max Consecutive Ones
 
-- Problem: [https://leetcode.com](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3238/)
+- Problem: [https://leetcode.com](https://leetcode.com/problems/max-consecutive-ones)
 
 ```kotlin
 class Solution {
