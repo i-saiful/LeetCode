@@ -1,6 +1,6 @@
 # Find Numbers with Even Number of Digits
 
-- Prblem: [https://leetcode.com](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3237/)
+- Prblem: [https://leetcode.com](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)
 
 ```kotlin
 class Solution {
