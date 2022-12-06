@@ -6,3 +6,4 @@
 - [1089. Duplicate Zeros](./1089_Duplicate_Zeros)
 - [88. Merge Sorted Array](./88_Merge_Sorted_Array)
 - [27. Remove Element](./27_Remove_Element)
+- [26. Remove Duplicates from Sorted Array](./26_Remove_Duplicates_from_Sorted_Array)
