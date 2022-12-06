@@ -5,3 +5,4 @@
 - [977. Squares of a Sorted Array](./977_Squares_of_a_Sorted_Array)
 - [1089. Duplicate Zeros](./1089_Duplicate_Zeros)
 - [88. Merge Sorted Array](./88_Merge_Sorted_Array)
+- [27. Remove Element](./27_Remove_Element)
