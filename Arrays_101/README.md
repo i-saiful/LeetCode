@@ -11,3 +11,4 @@
 - [941. Valid Mountain Array](./941_Valid_Mountain_Array)
 - [1299. Replace Elements with Greatest Element on Right Side](./1299_Replace_Elements_with_Greatest_Element_on_Right_Side)
 - [283. Move Zeroes](./283_Move_Zeroes)
+- [905. Sort Array By Parity](./905_Sort_Array_By_Parity)
