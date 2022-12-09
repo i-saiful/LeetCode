@@ -14,3 +14,4 @@
 - [905. Sort Array By Parity](./905_Sort_Array_By_Parity)
 - [1051. Height Checker](./1051_Height_Checker)
 - [414. Third Maximum Number](./414_Third_Maximum_Number)
+- [448. Find All Numbers Disappeared in an Array](./448_Find_All_Numbers_Disappeared_in_an_Array)
