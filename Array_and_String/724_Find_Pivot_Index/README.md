@@ -1,0 +1,19 @@
+# 724. Find Pivot Index
+
+- Problem: [https://leetcode.com](https://leetcode.com/problems/find-pivot-index)
+
+```kotlin
+class Solution {
+    fun pivotIndex(nums: IntArray): Int {
+        val sum = nums.sum()
+        var leftSum = 0
+        for(i in 0 until nums.size) {
+            if(leftSum == sum - leftSum - nums[i]) {
+                return i
+            }
+            leftSum += nums[i]
+        }
+        return -1
+    }
+}
+```
