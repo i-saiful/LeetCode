@@ -7,3 +7,4 @@
 - [54. Spiral Matrix](./54_Spiral_Matrix)
 - [118. Pascal's Triangle](./118_Pascals_Triangle)
 - [67. Add Binary](./67_Add_Binary)
+- [28. Find the Index of the First Occurrence in a String](./28_Find_the_Index_of_the_First_Occurrence_in_a_String)
