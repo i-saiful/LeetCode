@@ -2,7 +2,7 @@
 
 - Problem: [https://leetcode.com](https://leetcode.com/problems/linked-list-cycle)
 
-## Two Pointer
+### Two Pointer
 
 ```kotlin
 class Solution {
@@ -21,7 +21,7 @@ class Solution {
 }
 ```
 
-## Hash Table
+### Hash Table
 
 ```kotlin
 class Solution {
