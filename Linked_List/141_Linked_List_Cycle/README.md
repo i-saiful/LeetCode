@@ -2,6 +2,8 @@
 
 - Problem: [https://leetcode.com](https://leetcode.com/problems/linked-list-cycle)
 
+## Two Pointer
+
 ```kotlin
 class Solution {
     fun hasCycle(head: ListNode?): Boolean {
@@ -18,6 +20,8 @@ class Solution {
     }
 }
 ```
+
+## Hash Table
 
 ```kotlin
 class Solution {
