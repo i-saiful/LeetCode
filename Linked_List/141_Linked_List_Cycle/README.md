@@ -18,3 +18,19 @@ class Solution {
     }
 }
 ```
+
+```kotlin
+class Solution {
+    fun hasCycle(head: ListNode?): Boolean {
+        val cache = HashSet<ListNode> ()
+        var nodes = head
+        while (nodes != null) {
+            if (!cache.add(nodes)) {
+                return true
+            }
+            nodes = nodes?.next
+        }
+        return false
+    }
+}
+```
