@@ -5,4 +5,3 @@
 - [Problems](./Problems)
 - [Array and String](./Array_and_String)
 - [Linked List](./Linked_List)
-- [SQL Language](./SQL_Language)
