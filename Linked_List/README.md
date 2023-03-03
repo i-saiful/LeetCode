@@ -13,3 +13,4 @@
 - [2. Add Two Numbers](./2_Add_Two_Numbers)
 - [430. Flatten a Multilevel Doubly Linked List](./430_Flatten_a_Multilevel_Doubly_Linked_List)
 - [138. Copy List with Random Pointer](./138_Copy_List_with_Random_Pointer)
+- [61. Rotate List](./61_Rotate_List)
