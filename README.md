@@ -5,3 +5,4 @@
 - [Problems](./Problems)
 - [Array and String](./Array_and_String)
 - [Linked List](./Linked_List)
+- [Hash Table](./Hash_Table)
