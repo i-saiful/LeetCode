@@ -2,3 +2,4 @@
 
 - [705. Design HashSet](./705_Design_HashSet)
 - [706. Design HashMap](./706_Design_HashMap)
+- [217. Contains Duplicate](./217_Contains_Duplicate)
