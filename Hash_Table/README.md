@@ -9,3 +9,4 @@
 - [1. Two Sum](./1_Two_Sum)
 - [205. Isomorphic Strings](./205_Isomorphic_Strings)
 - [599. Minimum Index Sum of Two Lists](./599_Minimum_Index_Sum_of_Two_Lists)
+- [387. First Unique Character in a String](./387_First_Unique_Character_in_a_String)
