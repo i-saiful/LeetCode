@@ -8,3 +8,4 @@
 - [202. Happy Number](./202_Happy_Number)
 - [1. Two Sum](./1_Two_Sum)
 - [205. Isomorphic Strings](./205_Isomorphic_Strings)
+- [599. Minimum Index Sum of Two Lists](./599_Minimum_Index_Sum_of_Two_Lists)
