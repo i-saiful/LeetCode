@@ -12,3 +12,4 @@
 - [387. First Unique Character in a String](./387_First_Unique_Character_in_a_String)
 - [350. Intersection of Two Arrays II](./350_Intersection_of_Two_Arrays_II)
 - [219. Contains Duplicate II](./219_Contains_Duplicate_II)
+- [49. Group Anagrams](./49_Group_Anagrams)
