@@ -3,7 +3,7 @@
 		"scope": "markdown",
 		"prefix": "mdpy",
 		"body": [
-			"# $WORKSPACE_NAME\n",
+			"# ${TM_DIRECTORY/.*\\\\(.+)$/$1/}\n",
 			"- Problem: [https://leetcode.com]($1)\n",
 			"```python\n$CLIPBOARD\n```"
 		],
@@ -13,7 +13,7 @@
 		"scope": "markdown",
 		"prefix": "mdjs",
 		"body": [
-			"# $WORKSPACE_NAME\n",
+			"# ${TM_DIRECTORY/.*\\\\(.+)$/$1/}\n",
 			"- Problem: [https://leetcode.com]($1)\n",
 			"```javascript\n$CLIPBOARD\n```"
 		],
