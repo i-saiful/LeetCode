@@ -6,3 +6,4 @@
 - [2665. Counter II](./2665_Counter_II)
 - [2635. Apply Transform Over Each Element in Array](./2635_Apply_Transform_Over_Each_Element_in_Array)
 - [2634. Filter Elements from Array](./2634_Filter_Elements_from_Array)
+- [2626. Array Reduce Transformation](./2626_Array_Reduce_Transformation)
