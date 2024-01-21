@@ -8,3 +8,4 @@
 - [2634. Filter Elements from Array](./2634_Filter_Elements_from_Array)
 - [2626. Array Reduce Transformation](./2626_Array_Reduce_Transformation)
 - [2629. Function Composition](./2629_Function_Composition)
+- [2703. Return Length of Arguments Passed](./2703_Return_Length_of_Arguments_Passed)
