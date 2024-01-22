@@ -10,3 +10,4 @@
 - [2629. Function Composition](./2629_Function_Composition)
 - [2703. Return Length of Arguments Passed](./2703_Return_Length_of_Arguments_Passed)
 - [2666. Allow One Function Call](./2666_Allow_One_Function_Call)
+- [2623. Memoize](./2623_Memoize)
