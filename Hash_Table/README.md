@@ -16,3 +16,4 @@
 - [36. Valid Sudoku](./36_Valid_Sudoku)
 - [652. Find Duplicate Subtrees](./652_Find_Duplicate_Subtrees)
 - [771. Jewels and Stones](./771_Jewels_and_Stones)
+- [3. Longest Substring Without Repeating Characters](./3_Longest_Substring_Without_Repeating_Characters)
