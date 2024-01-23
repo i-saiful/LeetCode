@@ -12,3 +12,4 @@
 - [2666. Allow One Function Call](./2666_Allow_One_Function_Call)
 - [2623. Memoize](./2623_Memoize)
 - [2723. Add Two Promises](./2723_Add_Two_Promises)
+- [2621. Sleep](./2621_Sleep)
