@@ -14,3 +14,4 @@
 - [2723. Add Two Promises](./2723_Add_Two_Promises)
 - [2621. Sleep](./2621_Sleep)
 - [2715. Timeout Cancellation](./2715_Timeout_Cancellation)
+- [2725. Interval Cancellation](./2725_Interval_Cancellation)
