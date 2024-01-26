@@ -17,3 +17,4 @@
 - [2725. Interval Cancellation](./2725_Interval_Cancellation)
 - [2637. Promise Time Limit](./2637_Promise_Time_Limit)
 - [2622. Cache With Time Limit](./2622_Cache_With_Time_Limit)
+- [2627. Debounce](./2627_Debounce)
