@@ -21,3 +21,4 @@
 - [2721. Execute Asynchronous Functions in Parallel](./2721_Execute_Asynchronous_Functions_in_Parallel)
 - [2727. Is Object Empty](./2727_Is_Object_Empty)
 - [2677. Chunk Array](./2677_Chunk_Array)
+- [2619. Array Prototype Last](./2619_Array_Prototype_Last)
