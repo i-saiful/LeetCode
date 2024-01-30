@@ -19,3 +19,4 @@
 - [2622. Cache With Time Limit](./2622_Cache_With_Time_Limit)
 - [2627. Debounce](./2627_Debounce)
 - [2721. Execute Asynchronous Functions in Parallel](./2721_Execute_Asynchronous_Functions_in_Parallel)
+- [2727. Is Object Empty](./2727_Is_Object_Empty)
