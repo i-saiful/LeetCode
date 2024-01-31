@@ -23,3 +23,4 @@
 - [2677. Chunk Array](./2677_Chunk_Array)
 - [2619. Array Prototype Last](./2619_Array_Prototype_Last)
 - [2631. Group By](./2631_Group_By)
+- [2724. Sort By](./2724_Sort_By)
