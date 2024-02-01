@@ -24,3 +24,4 @@
 - [2619. Array Prototype Last](./2619_Array_Prototype_Last)
 - [2631. Group By](./2631_Group_By)
 - [2724. Sort By](./2724_Sort_By)
+- [2722. Join Two Arrays by ID](./2722_Join_Two_Arrays_by_ID)
