@@ -26,3 +26,4 @@
 - [2724. Sort By](./2724_Sort_By)
 - [2722. Join Two Arrays by ID](./2722_Join_Two_Arrays_by_ID)
 - [2625. Flatten Deeply Nested Array](./2625_Flatten_Deeply_Nested_Array)
+- [2705. Compact Object](./2705_Compact_Object)
