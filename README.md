@@ -7,3 +7,4 @@
 - [Linked List](./Linked_List)
 - [Hash Table](./Hash_Table)
 - [30 Days of JavaScript](./30_Days_of_JavaScript)
+- [SQL 50](./SQL_50)
