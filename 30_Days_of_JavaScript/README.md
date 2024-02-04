@@ -29,3 +29,4 @@
 - [2705. Compact Object](./2705_Compact_Object)
 - [2694. Event Emitter](./2694_Event_Emitter)
 - [2695. Array Wrapper](./2695_Array_Wrapper)
+- [2726. Calculator with Method Chaining](./2726_Calculator_with_Method_Chaining)
