@@ -6,3 +6,4 @@
 - [1148. Article Views I](./1148_Article_Views_I)
 - [1683. Invalid Tweets](./1683_Invalid_Tweets)
 - [1378. Replace Employee ID With The Unique Identifier](./1378_Replace_Employee_ID_With_The_Unique_Identifier)
+- [1068. Product Sales Analysis I](./1068_Product_Sales_Analysis_I)
