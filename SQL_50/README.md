@@ -9,3 +9,4 @@
 - [1068. Product Sales Analysis I](./1068_Product_Sales_Analysis_I)
 - [1581. Customer Who Visited but Did Not Make Any Transactions](./1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions)
 - [197. Rising Temperature](./197_Rising_Temperature)
+- [1661. Average Time of Process per Machine](./1661_Average_Time_of_Process_per_Machine)
