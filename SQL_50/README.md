@@ -11,3 +11,4 @@
 - [197. Rising Temperature](./197_Rising_Temperature)
 - [1661. Average Time of Process per Machine](./1661_Average_Time_of_Process_per_Machine)
 - [577. Employee Bonus](./577_Employee_Bonus)
+- [1280. Students and Examinations](./1280_Students_and_Examinations)
