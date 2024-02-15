@@ -12,3 +12,4 @@
 - [1661. Average Time of Process per Machine](./1661_Average_Time_of_Process_per_Machine)
 - [577. Employee Bonus](./577_Employee_Bonus)
 - [1280. Students and Examinations](./1280_Students_and_Examinations)
+- [570. Managers with at Least 5 Direct Reports](./570_Managers_with_at_Least_5_Direct_Reports)
