@@ -13,3 +13,4 @@
 - [577. Employee Bonus](./577_Employee_Bonus)
 - [1280. Students and Examinations](./1280_Students_and_Examinations)
 - [570. Managers with at Least 5 Direct Reports](./570_Managers_with_at_Least_5_Direct_Reports)
+- [1934. Confirmation Rate](./1934_Confirmation_Rate)
