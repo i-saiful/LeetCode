@@ -16,3 +16,4 @@
 - [1934. Confirmation Rate](./1934_Confirmation_Rate)
 - [620. Not Boring Movies](./620_Not_Boring_Movies)
 - [1251. Average Selling Price](./1251_Average_Selling_Price)
+- [1075. Project Employees I](./1075_Project_Employees_I)
