@@ -22,3 +22,4 @@
 - [1193. Monthly Transactions I](./1193_Monthly_Transactions_I)
 - [1174. Immediate Food Delivery II](./1174_Immediate_Food_Delivery_II)
 - [550. Game Play Analysis IV](./550_Game_Play_Analysis_IV)
+- [2356. Number of Unique Subjects Taught by Each Teacher](./2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher)
