@@ -23,3 +23,4 @@
 - [1174. Immediate Food Delivery II](./1174_Immediate_Food_Delivery_II)
 - [550. Game Play Analysis IV](./550_Game_Play_Analysis_IV)
 - [2356. Number of Unique Subjects Taught by Each Teacher](./2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher)
+- [1141. User Activity for the Past 30 Days I](./1141_User_Activity_for_the_Past_30_Days_I)
