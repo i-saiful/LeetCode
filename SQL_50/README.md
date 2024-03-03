@@ -25,3 +25,4 @@
 - [2356. Number of Unique Subjects Taught by Each Teacher](./2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher)
 - [1141. User Activity for the Past 30 Days I](./1141_User_Activity_for_the_Past_30_Days_I)
 - [1070. Product Sales Analysis III](./1070_Product_Sales_Analysis_III)
+- [596. Classes More Than 5 Students](./596_Classes_More_Than_5_Students)
