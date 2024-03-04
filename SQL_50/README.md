@@ -27,3 +27,4 @@
 - [1070. Product Sales Analysis III](./1070_Product_Sales_Analysis_III)
 - [596. Classes More Than 5 Students](./596_Classes_More_Than_5_Students)
 - [1729. Find Followers Count](./1729_Find_Followers_Count)
+- [619. Biggest Single Number](./619_Biggest_Single_Number)
