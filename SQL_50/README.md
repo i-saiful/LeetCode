@@ -29,3 +29,4 @@
 - [1729. Find Followers Count](./1729_Find_Followers_Count)
 - [619. Biggest Single Number](./619_Biggest_Single_Number)
 - [1045. Customers Who Bought All Products](./1045_Customers_Who_Bought_All_Products)
+- [1731. The Number of Employees Which Report to Each Employee](./1731_The_Number_of_Employees_Which_Report_to_Each_Employee)
