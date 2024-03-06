@@ -31,3 +31,5 @@
 - [1045. Customers Who Bought All Products](./1045_Customers_Who_Bought_All_Products)
 - [1731. The Number of Employees Which Report to Each Employee](./1731_The_Number_of_Employees_Which_Report_to_Each_Employee)
 - [1789. Primary Department for Each Employee](./1789_Primary_Department_for_Each_Employee)
+- [610. Triangle Judgement](./610_Triangle_Judgement)
+- [180. Consecutive Numbers](./180_Consecutive_Numbers)
