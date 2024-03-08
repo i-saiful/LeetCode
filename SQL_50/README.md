@@ -33,4 +33,5 @@
 - [1789. Primary Department for Each Employee](./1789_Primary_Department_for_Each_Employee)
 - [610. Triangle Judgement](./610_Triangle_Judgement)
 - [180. Consecutive Numbers](./180_Consecutive_Numbers)
+- [1164. Product Price at a Given Date](./1164_Product_Price_at_a_Given_Date)
 - [1204. Last Person to Fit in the Bus](./1204_Last_Person_to_Fit_in_the_Bus)
