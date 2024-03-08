@@ -34,5 +34,7 @@
 1. [610. Triangle Judgement](./610_Triangle_Judgement)
 1. [180. Consecutive Numbers](./180_Consecutive_Numbers)
 1. [1164. Product Price at a Given Date](./1164_Product_Price_at_a_Given_Date)
-1. [1204. Last Person to Fit in the Bus](./1204_Last_Person_to_Fit_in_the_Bus)
-1. [1907. Count Salary Categories](./1907_Count_Salary_Categories)
+
+
+<br>&#10004; [1204. Last Person to Fit in the Bus](./1204_Last_Person_to_Fit_in_the_Bus)
+<br>&#10004; [1907. Count Salary Categories](./1907_Count_Salary_Categories)
