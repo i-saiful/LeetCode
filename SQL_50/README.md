@@ -37,3 +37,4 @@
 - [1204. Last Person to Fit in the Bus](./1204_Last_Person_to_Fit_in_the_Bus)
 - [1907. Count Salary Categories](./1907_Count_Salary_Categories)
 - [1978. Employees Whose Manager Left the Company](./1978_Employees_Whose_Manager_Left_the_Company)
+- [626. Exchange Seats](./626_Exchange_Seats)
