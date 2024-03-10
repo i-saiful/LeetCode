@@ -38,3 +38,4 @@
 - [1907. Count Salary Categories](./1907_Count_Salary_Categories)
 - [1978. Employees Whose Manager Left the Company](./1978_Employees_Whose_Manager_Left_the_Company)
 - [626. Exchange Seats](./626_Exchange_Seats)
+- [1341. Movie Rating](./1341_Movie_Rating)
