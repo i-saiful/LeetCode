@@ -49,3 +49,4 @@
 - [76. Second Highest Salary](./76_Second_Highest_Salary)
 - [1484. Group Sold Products By The Date](./1484_Group_Sold_Products_By_The_Date)
 - [1327. List the Products Ordered in a Period](./1327_List_the_Products_Ordered_in_a_Period)
+- [1517. Find Users With Valid E-Mails](./1517_Find_Users_With_Valid_EMails)
