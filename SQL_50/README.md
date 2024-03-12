@@ -41,3 +41,4 @@
 - [1341. Movie Rating](./1341_Movie_Rating)
 - [1321. Restaurant Growth](./1321_Restaurant_Growth)
 - [602. Friend Requests II: Who Has the Most Friends](./602_Friend_Requests_II_Who_Has_the_Most_Friends)
+- [585. Investments in 2016](./585_Investments_in_2016)
