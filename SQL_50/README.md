@@ -43,3 +43,4 @@
 - [602. Friend Requests II: Who Has the Most Friends](./602_Friend_Requests_II_Who_Has_the_Most_Friends)
 - [585. Investments in 2016](./585_Investments_in_2016)
 - [185. Department Top Three Salaries](./185_Department_Top_Three_Salaries)
+- [1667. Fix Names in a Table](./1667_Fix_Names_in_a_Table)
