@@ -45,3 +45,4 @@
 - [185. Department Top Three Salaries](./185_Department_Top_Three_Salaries)
 - [1667. Fix Names in a Table](./1667_Fix_Names_in_a_Table)
 - [1527. Patients With a Condition](./1527_Patients_With_a_Condition)
+- [196. Delete Duplicate Emails](./196_Delete_Duplicate_Emails)
