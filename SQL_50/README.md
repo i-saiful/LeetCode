@@ -47,3 +47,4 @@
 - [1527. Patients With a Condition](./1527_Patients_With_a_Condition)
 - [196. Delete Duplicate Emails](./196_Delete_Duplicate_Emails)
 - [76. Second Highest Salary](./76_Second_Highest_Salary)
+- [1484. Group Sold Products By The Date](./1484_Group_Sold_Products_By_The_Date)
