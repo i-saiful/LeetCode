@@ -46,3 +46,4 @@
 - [1667. Fix Names in a Table](./1667_Fix_Names_in_a_Table)
 - [1527. Patients With a Condition](./1527_Patients_With_a_Condition)
 - [196. Delete Duplicate Emails](./196_Delete_Duplicate_Emails)
+- [76. Second Highest Salary](./76_Second_Highest_Salary)
