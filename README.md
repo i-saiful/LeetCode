@@ -1,5 +1,4 @@
 # LeetCode Solution
-
 - [The LeetCode Beginner's Guide](./Beginners_Guide)
 - [Arrays 101](./Arrays_101)
 - [Problems](./Problems)
@@ -9,3 +8,6 @@
 - [30 Days of JavaScript](./30_Days_of_JavaScript)
 - [SQL 50](./SQL_50)
 - [Queue & Stack](./Queue_and_Stack)
+
+# NeetCode Solution
+- [Arrays & Hashing](./NeetCode/Arrays_n_Hashing)
