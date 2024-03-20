@@ -7,3 +7,4 @@
 - [238. Product of Array Except Self](./238_Product_of_Array_Except_Self)
 - [36. Valid Sudoku](./36_Valid_Sudoku)
 - [128. Longest Consecutive Sequence](./128_Longest_Consecutive_Sequence)
+- [1929. Concatenation of Array](./1929_Concatenation_of_Array)
