@@ -8,3 +8,4 @@
 - [36. Valid Sudoku](./36_Valid_Sudoku)
 - [128. Longest Consecutive Sequence](./128_Longest_Consecutive_Sequence)
 - [1929. Concatenation of Array](./1929_Concatenation_of_Array)
+- [1299. Replace Elements with Greatest Element on Right Side](./1299_Replace_Elements_with_Greatest_Element_on_Right_Side)
