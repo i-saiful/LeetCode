@@ -12,3 +12,4 @@
 - [392. Is Subsequence](./392_Is_Subsequence)
 - [58. Length of Last Word](./58_Length_of_Last_Word)
 - [14. Longest Common Prefix](./14_Longest_Common_Prefix)
+- [118. Pascal's Triangle](./118_Pascals_Triangle)
