@@ -13,3 +13,4 @@
 - [58. Length of Last Word](./58_Length_of_Last_Word)
 - [14. Longest Common Prefix](./14_Longest_Common_Prefix)
 - [118. Pascal's Triangle](./118_Pascals_Triangle)
+- [27. Remove Element](./27_Remove_Element)
