@@ -15,3 +15,4 @@
 - [118. Pascal's Triangle](./118_Pascals_Triangle)
 - [27. Remove Element](./27_Remove_Element)
 - [929. Unique Email Addresses](./929_Unique_Email_Addresses)
+- [205. Isomorphic Strings](./205_Isomorphic_Strings)
