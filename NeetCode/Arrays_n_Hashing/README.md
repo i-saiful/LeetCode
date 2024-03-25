@@ -16,3 +16,4 @@
 - [27. Remove Element](./27_Remove_Element)
 - [929. Unique Email Addresses](./929_Unique_Email_Addresses)
 - [205. Isomorphic Strings](./205_Isomorphic_Strings)
+- [605. Can Place Flowers](./605_Can_Place_Flowers)
