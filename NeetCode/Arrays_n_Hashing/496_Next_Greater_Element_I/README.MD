@@ -2,7 +2,7 @@
 
 - Problem: [https://leetcode.com](https://leetcode.com/problems/next-greater-element-i/)
 
-### Approach Hashing
+### Approach-1: Hashing
 Time Complexity : O(m * n)
 ```python
 class Solution:
@@ -20,7 +20,7 @@ class Solution:
         return res
 ```
 
-### Approach Monotonic Stack
+### Approach-2: Monotonic Stack
 Time Complexity : O(m + n)
 ```python
 class Solution:
