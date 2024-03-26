@@ -18,3 +18,4 @@
 - [205. Isomorphic Strings](./205_Isomorphic_Strings)
 - [605. Can Place Flowers](./605_Can_Place_Flowers)
 - [169. Majority Element](./169_Majority_Element)
+- [496. Next Greater Element I](./496_Next_Greater_Element_I)
