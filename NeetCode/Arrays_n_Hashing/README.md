@@ -20,3 +20,4 @@
 - [169. Majority Element](./169_Majority_Element)
 - [496. Next Greater Element I](./496_Next_Greater_Element_I)
 - [724. Find Pivot Index](./724_Find_Pivot_Index)
+- [303. Range Sum Query - Immutable](./303_Range_Sum_Query_Immutable)
