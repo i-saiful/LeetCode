@@ -19,3 +19,4 @@
 - [605. Can Place Flowers](./605_Can_Place_Flowers)
 - [169. Majority Element](./169_Majority_Element)
 - [496. Next Greater Element I](./496_Next_Greater_Element_I)
+- [724. Find Pivot Index](./724_Find_Pivot_Index)
