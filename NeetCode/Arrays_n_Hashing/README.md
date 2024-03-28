@@ -21,3 +21,5 @@
 - [496. Next Greater Element I](./496_Next_Greater_Element_I)
 - [724. Find Pivot Index](./724_Find_Pivot_Index)
 - [303. Range Sum Query - Immutable](./303_Range_Sum_Query_Immutable)
+- [448. Find All Numbers Disappeared in an Array](./448_Find_All_Numbers_Disappeared_in_an_Array)
+- [1189. Maximum Number of Balloons](./1189_Maximum_Number_of_Balloons)
