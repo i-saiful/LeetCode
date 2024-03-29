@@ -23,3 +23,4 @@
 - [303. Range Sum Query - Immutable](./303_Range_Sum_Query_Immutable)
 - [448. Find All Numbers Disappeared in an Array](./448_Find_All_Numbers_Disappeared_in_an_Array)
 - [1189. Maximum Number of Balloons](./1189_Maximum_Number_of_Balloons)
+- [290. Word Pattern](./290_Word_Pattern)
