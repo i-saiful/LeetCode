@@ -25,3 +25,4 @@
 - [1189. Maximum Number of Balloons](./1189_Maximum_Number_of_Balloons)
 - [290. Word Pattern](./290_Word_Pattern)
 - [705. Design HashSet](./705_Design_HashSet)
+- [706. Design HashMap](./706_Design_HashMap)
