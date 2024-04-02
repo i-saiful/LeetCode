@@ -11,3 +11,9 @@
 
 # NeetCode Solution
 - [Arrays & Hashing](./NeetCode/Arrays_n_Hashing)
+
+# Algorithm
+| Algorithm | Description |
+|---|---|
+| Knuth–Morris–Pratt(KMP) | It's a string-searching algorithm. |
+| Sliding Window | It's to convert two nested loops into a single loop. |
