@@ -27,3 +27,4 @@
 - [705. Design HashSet](./705_Design_HashSet)
 - [706. Design HashMap](./706_Design_HashMap)
 - [1822. Sign of the Product of an Array](./1822_Sign_of_the_Product_of_an_Array)
+- [28. Find the Index of the First Occurrence in a String](./28_Find_the_Index_of_the_First_Occurrence_in_a_String)
