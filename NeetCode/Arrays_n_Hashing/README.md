@@ -30,3 +30,4 @@
 - [28. Find the Index of the First Occurrence in a String](./28_Find_the_Index_of_the_First_Occurrence_in_a_String)
 - [2215. Find the Difference of Two Arrays](./2215_Find_the_Difference_of_Two_Arrays)
 - [1603. Design Parking System](./1603_Design_Parking_System)
+- [912. Sort an Array](./912_Sort_an_Array)
