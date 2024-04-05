@@ -33,3 +33,4 @@
 - [912. Sort an Array](./912_Sort_an_Array)
 - [75. Sort Colors](./75_Sort_Colors)
 - [535. Encode and Decode TinyURL](./535_Encode_and_Decode_TinyURL)
+- [554. Brick Wall](./554_Brick_Wall)
