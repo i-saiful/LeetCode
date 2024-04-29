@@ -49,3 +49,4 @@
 - [380. Insert Delete GetRandom O(1)](./380_Insert_Delete_GetRandom_O1)
 - [1461. Check If a String Contains All Binary Codes of Size K](./1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K)
 - [304. Range Sum Query 2D - Immutable](./304_Range_Sum_Query_2D_Immutable)
+- [665. Non-decreasing Array](./665_Non_decreasing_Array)
