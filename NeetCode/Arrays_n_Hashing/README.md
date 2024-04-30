@@ -51,3 +51,4 @@
 - [304. Range Sum Query 2D - Immutable](./304_Range_Sum_Query_2D_Immutable)
 - [665. Non-decreasing Array](./665_Non_decreasing_Array)
 - [2348. Number of Zero-Filled Subarrays](./2348_Number_of_Zero_Filled_Subarrays)
+- [2405. Optimal Partition of String](./2405_Optimal_Partition_of_String)
