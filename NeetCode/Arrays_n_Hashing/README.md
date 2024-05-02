@@ -53,3 +53,4 @@
 - [2348. Number of Zero-Filled Subarrays](./2348_Number_of_Zero_Filled_Subarrays)
 - [2405. Optimal Partition of String](./2405_Optimal_Partition_of_String)
 - [1396. Design Underground System](./1396_Design_Underground_System)
+- [2483. Minimum Penalty for a Shop](./2483_Minimum_Penalty_for_a_Shop)
