@@ -55,3 +55,4 @@
 - [1396. Design Underground System](./1396_Design_Underground_System)
 - [2483. Minimum Penalty for a Shop](./2483_Minimum_Penalty_for_a_Shop)
 - [41. First Missing Positive](./41_First_Missing_Positive)
+- [68. Text Justification](./68_Text_Justification)
