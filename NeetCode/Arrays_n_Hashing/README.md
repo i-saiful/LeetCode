@@ -56,3 +56,4 @@
 - [2483. Minimum Penalty for a Shop](./2483_Minimum_Penalty_for_a_Shop)
 - [41. First Missing Positive](./41_First_Missing_Positive)
 - [68. Text Justification](./68_Text_Justification)
+- [2306. Naming a Company](./2306_Naming_a_Company)
