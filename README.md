@@ -11,6 +11,7 @@
 
 # NeetCode Solution
 - [Arrays & Hashing](./NeetCode/Arrays_n_Hashing)
+- [Stack](./NeetCode/Stack/)
 
 # Algorithm
 | Algorithm | Description |
