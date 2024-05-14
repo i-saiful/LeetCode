@@ -7,3 +7,4 @@
 - [150. Evaluate Reverse Polish Notation](./150_Evaluate_Reverse_Polish_Notation)
 - [2390. Removing Stars From a String](./2390_Removing_Stars_From_a_String)
 - [946. Validate Stack Sequences](./946_Validate_Stack_Sequences)
+- [22. Generate Parentheses](./22_Generate_Parentheses)
