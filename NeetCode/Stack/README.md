@@ -9,3 +9,4 @@
 - [946. Validate Stack Sequences](./946_Validate_Stack_Sequences)
 - [22. Generate Parentheses](./22_Generate_Parentheses)
 - [735. Asteroid Collision](./735_Asteroid_Collision)
+- [739. Daily Temperatures](./739_Daily_Temperatures)
