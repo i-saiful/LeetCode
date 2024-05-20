@@ -13,3 +13,4 @@
 - [901. Online Stock Span](./901_Online_Stock_Span)
 - [853. Car Fleet](./853_Car_Fleet)
 - [71. Simplify Path](./71_Simplify_Path)
+- [394. Decode String](./394_Decode_String)
