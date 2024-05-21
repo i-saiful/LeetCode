@@ -14,3 +14,4 @@
 - [853. Car Fleet](./853_Car_Fleet)
 - [71. Simplify Path](./71_Simplify_Path)
 - [394. Decode String](./394_Decode_String)
+- [402. Remove K Digits](./402_Remove_K_Digits)
