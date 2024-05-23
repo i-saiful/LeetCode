@@ -17,3 +17,4 @@
 - [402. Remove K Digits](./402_Remove_K_Digits)
 - [1209. Remove All Adjacent Duplicates in String II](./1209_Remove_All_Adjacent_Duplicates_in_String_II)
 - [456. 132 Pattern](./456_132_Pattern)
+- [895. Maximum Frequency Stack](./895_Maximum_Frequency_Stack)
