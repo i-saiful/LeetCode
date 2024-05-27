@@ -12,6 +12,7 @@
 # NeetCode Solution
 - [Arrays & Hashing](./NeetCode/Arrays_n_Hashing)
 - [Stack](./NeetCode/Stack/)
+- [Two Pointers](./NeetCode/Two_Pointers)
 
 # Algorithm
 | Algorithm | Description |
