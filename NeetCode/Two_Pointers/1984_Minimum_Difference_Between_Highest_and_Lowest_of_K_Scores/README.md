@@ -11,5 +11,5 @@ class Solution:
         while r < len(nums):
             res = min(res, nums[r] - nums[l])
             l, r = l + 1, r + 1
-        return res
+        return res  
 ```
