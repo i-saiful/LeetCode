@@ -6,3 +6,4 @@
 - [1768. Merge Strings Alternately](./1768_Merge_Strings_Alternately)
 - [344. Reverse String](./344_Reverse_String)
 - [88. Merge Sorted Array](./88_Merge_Sorted_Array)
+- [283. Move Zeroes](./283_Move_Zeroes)
