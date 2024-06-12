@@ -9,3 +9,4 @@
 - [283. Move Zeroes](./283_Move_Zeroes)
 - [26. Remove Duplicates from Sorted Array](./26_Remove_Duplicates_from_Sorted_Array)
 - [455. Assign Cookies](./455_Assign_Cookies)
+- [2108. Find First Palindromic String in the Array](./2108_Find_First_Palindromic_String_in_the_Array)
