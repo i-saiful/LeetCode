@@ -13,3 +13,4 @@
 - [167. Two Sum II - Input Array Is Sorted](./167_Two_Sum_II_Input_Array_Is_Sorted)
 - [15. 3Sum](./15_3Sum)
 - [11. Container With Most Water](./11_Container_With_Most_Water)
+- [42. Trapping Rain Water](./42_Trapping_Rain_Water)
