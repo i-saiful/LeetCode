@@ -17,3 +17,4 @@
 - [905. Sort Array By Parity](./905_Sort_Array_By_Parity)
 - [557. Reverse Words in a String III](./557_Reverse_Words_in_a_String_III)
 - [844. Backspace String Compare](./844_Backspace_String_Compare)
+- [1662. Check If Two String Arrays are Equivalent](./1662_Check_If_Two_String_Arrays_are_Equivalent)
